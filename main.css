@@ -138,3 +138,8 @@
     align-items: center;
     gap: 0.25rem;
   }
+
+a{
+    color: black;
+    text-decoration: none;
+}
